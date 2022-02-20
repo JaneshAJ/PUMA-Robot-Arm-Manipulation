@@ -1,8 +1,8 @@
 # Balancing-a-Segway
 Balancing a Segway using Control theory with MATLAB and SIMULINK
 
-The aim of this project is to make a Segway robot to stand up on itself using control theory. 
+The aim of this project is to manipulate a robotic arm to test out mechanical theories of robotics. 
 
-First part of this project was to do simulations on SIMULINK and make theoritical assumptions. Second part of the project is to test a PID controller on the Segway and tuning the robot by adding controllers onto the existing PID controller to make the robot stand on itself. Last part of the project was to validate the controller that we used and add an observer to the controller to make it more stable. The aim at the end of the project was to stabilize the robot making it more roboust against real world uncertainties with the plant parameters. 
+This project is based on the robotics course which included Kinematics, visual servoing, mapping, path planning, Localization and other mobile robotics theories which was put in practice with the projects on the robotic arm. The arm used here was a PUMA robot and its stand alone simulator. 
 
-Technologies used here are MATLAB and SIMULINK. 
+Technologies used here are PUMA Simulator, C++, Robot Operating System. 
